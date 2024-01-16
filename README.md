@@ -1,6 +1,6 @@
 ### João Cabral aqui
 
-- 🔭 Desenvolverdor Frontend Web e Mobile.
+- 💻 Desenvolvedor Frontend Web e Mobile.
 - 🌱 Sempre em constante evolução.
 <div align="center">
   <a href="https://github.com/joao-cabral">
