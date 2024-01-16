@@ -1,7 +1,7 @@
 ### João Cabral aqui
 
-- 🔭 Hoje trabalho como Mobile Flutter e Front-end
-- 🌱 Estou me aprofundando em Mobile
+- 🔭 Desenvolverdor Frontend Web e Mobile.
+- 🌱 Sempre em constante evolução.
 <div align="center">
   <a href="https://github.com/joao-cabral">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-cabral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
